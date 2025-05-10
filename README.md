@@ -1,6 +1,7 @@
-# DeepWork - Task Management System
+<<<<<<< HEAD
+# DeepWork Tracker
 
-A modern task management system built with FastAPI, SQLite, and React to help users track and manage their deep work sessions.
+A full-stack application to track and manage deep work sessions, helping users maintain focus and productivity.
 
 ## Features
 
@@ -127,3 +128,6 @@ Once the backend is running, you can access:
 ## License
 
 MIT License
+=======
+# DeepWork-Tracker
+>>>>>>> 04d44a675dfe4b59cc02bb1d267f7f9dfc46fbba
